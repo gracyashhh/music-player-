@@ -1,4 +1,3 @@
-# Visit pyGuru on youtube
 # pip install pygame
 
 import os
